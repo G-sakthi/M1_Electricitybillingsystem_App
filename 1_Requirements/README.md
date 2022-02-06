@@ -14,7 +14,29 @@ In addition, high-end electricity bill calculators generally include:
 -Bill calculation based on units consumed
 
 # Cost and Time
+This is the plot of cost of the calculators in ($ ) and time in years
 
+# Swot Analysis
+Strengths: Innovative, User-friendly.
+
+Weakness: Cost of calculator increases as features added in the calculator increase.
+
+Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+
+Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+
+# 4W's and 1'H
+who : office
+
+What: Electricity bill calculator**
+
+Where: School, Science, domestic, industries, Technology
+
+When: Need for calculation
+
+How: Calculates the user input as number of loads and gives the output.
+
+# Description Requirments
 
 # High Level Requirements
 ID	                    Description	                                              Status
@@ -33,4 +55,5 @@ LL01_HL01	Calculates electricity bill at rural areas	            Implemented
 LL02_HL02	Calculates electricity bill at urban areas            	Implemented
 LL03_HL03	Calculates total load at domestics places	            Implemented
 LL04	    Calculates total unit consumed at domestics places      Implemented
+
 
