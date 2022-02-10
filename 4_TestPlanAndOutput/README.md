@@ -10,7 +10,7 @@
 ## Low Level Test Plan
 
 |**Test ID**|**HL_ID**|**Description**|**Exp input**|**Exp Output**|**Actual Output**|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |L_01	H_01|	Electricity bill calculation at Urban areas if(units<30)|	22 units|	71.5 rupees|	71.5 rupees
 |L_02	H_01|	Electricity bill calculation at Urban areas if(units>30 && units <100)|	50|	235|	235
 |L_03	H_01|	Electricity bill calculation at Urban areas if(units>101 && units <200)|	150|	937.5|	937.5
