@@ -5,4 +5,10 @@
 
 ## High Level Behaviour Diagram
 
+![high level](https://user-images.githubusercontent.com/98867749/153443936-1b69b531-2e32-477a-8606-4b266314391b.jpg)
+
+# STRUCTURE DIAGRAM
+## Low Level Structure Diagram
+
+
 
