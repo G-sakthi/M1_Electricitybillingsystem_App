@@ -17,4 +17,6 @@
 
 ## High Level Structural Diagram
 
+![high structure](https://user-images.githubusercontent.com/98867749/153475616-ca100f54-c695-43c3-97a2-8c273b22ea5a.jpg)
+
 
