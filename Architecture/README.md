@@ -10,5 +10,11 @@
 # STRUCTURE DIAGRAM
 ## Low Level Structure Diagram
 
+![structure low level](https://user-images.githubusercontent.com/98867749/153444845-6e66c458-120e-412f-ae4b-2d869a18e58b.jpg)
+
+## High Level Structure Diagram
+
+
+
 
 
