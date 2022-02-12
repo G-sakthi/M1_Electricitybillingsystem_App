@@ -23,6 +23,6 @@
 |5_ ImagesAndVideos|Screen-shots of the working code|
 
 # REFERENCE
-https://www.w3resource.com/c-programming-exercises/conditional-statement/c-conditional-statement-exercises-19.php
-https://codeforwin.org/2015/05/c-program-to-calculate-electricity-bill
-https://code4coding.com/c-program-to-calculate-electricity-bill/
+1) https://www.w3resource.com/c-programming-exercises/conditional-statement/c-conditional-statement-exercises-19.php
+2) https://codeforwin.org/2015/05/c-program-to-calculate-electricity-bill
+3) https://code4coding.com/c-program-to-calculate-electricity-bill/
