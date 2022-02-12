@@ -2,15 +2,12 @@
 # M1_Electricitybillingsystem_App
 
 # Code Quality Scrore
-
 ![code quality score](https://api.codiga.io/project/31081/score/svg)
 
 # Code Grade
-
 ![quality grade](https://api.codiga.io/project/31081/status/svg)
 
 # code quality
-
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e2cd94ae4d26403ca19ee18ecadab603)](https://www.codacy.com/gh/G-sakthi/M1_Electricitybillingsystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=G-sakthi/M1_Electricitybillingsystem_App&amp;utm_campaign=Badge_Grade)
 
 |**FOLDER**|**DESCRIPTION**|
