@@ -21,3 +21,8 @@
 |3_Implementation|All code and documentation|
 |4_TestplanAndOutput|Documentation with test plans and procedures|
 |5_ ImagesAndVideos|Screen-shots of the working code|
+
+# REFERENCE
+https://www.w3resource.com/c-programming-exercises/conditional-statement/c-conditional-statement-exercises-19.php
+https://codeforwin.org/2015/05/c-program-to-calculate-electricity-bill
+https://code4coding.com/c-program-to-calculate-electricity-bill/
